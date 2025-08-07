@@ -16,3 +16,11 @@ My solutions to the exercises at the end of each chapter.
 - **3.1** - [Mininmum](03-functions/3-1-minimum.js)
 - **3.2** - [Recursion](03-functions/3-2-recursion.js)
 - **3.3** - [Bean Counting](03-functions/3-3-bean-counting.js)
+
+## Chapter 4 - Data Structures: Objects and Arrays
+
+- **4.1** - [Sum of a Range](04-data-structures-objects-and-arrays/4-1-sum-of-a-range.js)
+- **4.2** - [Reversing an Array](04-data-structures-objects-and-arrays/4-2-reversing-an-array.js)
+- **4.3** - [A List](04-data-structures-objects-and-arrays/4-3-list.js)
+- **4.4** - [Deep Comparison](04-data-structures-objects-and-arrays/4-4-deep-comparison.js)
+
